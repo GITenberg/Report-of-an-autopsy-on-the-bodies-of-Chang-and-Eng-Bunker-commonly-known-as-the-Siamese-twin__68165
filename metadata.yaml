@@ -1,5 +1,8 @@
 _repo: Report-of-an-autopsy-on-the-bodies-of-Chang-and-Eng-Bunker-commonly-known-as-the-Siamese-twin__68165
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, Harrison
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54635
     wikipedia: https://en.wikipedia.org/wiki/Harrison_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68165#Report-of-an-autopsy-on-the-bodies-of-Chang-and-Eng-Bunker-commonly-known-as-the-Siamese-twin_
 gutenberg_issued: '2022-05-25'
 identifiers:
   gutenberg: '68165'
